@@ -37,3 +37,7 @@ t.test(D2_data$PSI,mu=1500)
 lot1 <- subset(D2_data, Manufacturing_Lot=="Lot1")
 lot2 <- subset(D2_data, Manufacturing_Lot=="Lot2")
 lot3 <- subset(D2_data, Manufacturing_Lot=="Lot3")
+
+t.test(lot1$PSI,mu=1500)
+t.test(lot2$PSI,mu=1500)
+t.test(lot3$PSI,mu=1500)
