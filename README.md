@@ -11,3 +11,11 @@ The slope of the linear model is not zero. We can determine this by looking at t
 
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 The multiple r-squared value of 0.7149 implies that 71% of the mpg can be determined by the metrics included in this model. We can say that this model does predict the MPG of the prototypes effectively. 
+
+## Summary Statistics on Suspension Coils
+Total Summary
+![Total Summary](https://github.com/JoshTrewhella/MechaCar_Statistical_Analysis/blob/main/Images/D2_TS.PNG)
+
+Lot Summary
+![Lot Summary](https://github.com/JoshTrewhella/MechaCar_Statistical_Analysis/blob/main/Images/D2_LS.PNG)
+
