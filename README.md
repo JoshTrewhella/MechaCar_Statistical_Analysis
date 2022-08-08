@@ -47,3 +47,6 @@ Lot 3 T-Test
 ![TT3](https://github.com/JoshTrewhella/MechaCar_Statistical_Analysis/blob/main/Images/D3_Lot3TT.PNG)
 
 The p-value of 0.04168 tells us that there is a difference between the population mean of the PSI and the manufacturing lot sample and the null hypothesis should be rejected.
+
+## Study Design: MechaCar vs Competition
+We can determine the driver satisfaction of the MechaCar protypes with the general population by having people test drive their car and rate it on a scale from 0.0-5.0. For the competition ratings we can use the rating system from KBB. We can use a t-test by calculating the means of the ratings of both the MechaCar and the competition. Our null hypothesis would state that there is no difference between the car ratings between MechaCar and the competition and the alternative hypothesis would state that there is a difference between the two groups. 
